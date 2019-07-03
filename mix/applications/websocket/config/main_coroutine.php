@@ -7,7 +7,7 @@ return [
     'appName'    => 'websocket',
 
     // 应用版本
-    'appVersion' => '0.0.0',
+    'appVersion' => '0.0.1',
 
     // 应用调试
     'appDebug'   => env('APP_DEBUG'),
