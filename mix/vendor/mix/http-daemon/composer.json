@@ -1,0 +1,30 @@
+{
+  "name": "mix/http-daemon",
+  "description": "MixPHP HTTP 守护程序 http://www.mixphp.cn",
+  "type": "project",
+  "keywords": [
+    "framework",
+    "mixphp",
+    "swoole"
+  ],
+  "homepage": "http://www.mixphp.cn/",
+  "license": "Apache-2.0",
+  "authors": [
+    {
+      "name": "liu,jian",
+      "email": "coder.keda@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=7.0.0",
+    "mix/framework": "~2.0.0",
+    "mix/console": "~2.0.0",
+    "mix/log": "~2.0.0",
+    "mix/http-server": "~2.0.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Mix\\Http\\Daemon\\": "src/"
+    }
+  }
+}
