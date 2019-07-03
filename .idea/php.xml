@@ -1,40 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PhpIncludePathManager">
-    <include_path>
-      <path value="$PROJECT_DIR$/mix/vendor/mix/http" />
-      <path value="$PROJECT_DIR$/mix/vendor/mix/websocket-daemon" />
-      <path value="$PROJECT_DIR$/mix/vendor/swoole/ide-helper" />
-      <path value="$PROJECT_DIR$/mix/vendor/psr/container" />
-      <path value="$PROJECT_DIR$/mix/vendor/firebase/php-jwt" />
-      <path value="$PROJECT_DIR$/mix/vendor/psr/log" />
-      <path value="$PROJECT_DIR$/mix/vendor/psr/simple-cache" />
-      <path value="$PROJECT_DIR$/mix/vendor/composer" />
-      <path value="$PROJECT_DIR$/mix/vendor/mix/udp" />
-      <path value="$PROJECT_DIR$/mix/vendor/mix/server" />
-      <path value="$PROJECT_DIR$/mix/vendor/mix/http-message" />
-      <path value="$PROJECT_DIR$/mix/vendor/mix/auth" />
-      <path value="$PROJECT_DIR$/mix/vendor/mix/udp-server" />
-      <path value="$PROJECT_DIR$/mix/vendor/mix/log" />
-      <path value="$PROJECT_DIR$/mix/vendor/mix/websocket-server" />
-      <path value="$PROJECT_DIR$/mix/vendor/mix/concurrent" />
-      <path value="$PROJECT_DIR$/mix/vendor/mix/redis" />
-      <path value="$PROJECT_DIR$/mix/vendor/mix/database" />
-      <path value="$PROJECT_DIR$/mix/vendor/mix/tcp-server" />
-      <path value="$PROJECT_DIR$/mix/vendor/mix/tcp-daemon" />
-      <path value="$PROJECT_DIR$/mix/vendor/mix/websocket" />
-      <path value="$PROJECT_DIR$/mix/vendor/mix/http-server" />
-      <path value="$PROJECT_DIR$/mix/vendor/mix/validate" />
-      <path value="$PROJECT_DIR$/mix/vendor/mix/tcp" />
-      <path value="$PROJECT_DIR$/mix/vendor/mix/console" />
-      <path value="$PROJECT_DIR$/mix/vendor/mix/cache" />
-      <path value="$PROJECT_DIR$/mix/vendor/mix/udp-daemon" />
-      <path value="$PROJECT_DIR$/mix/vendor/mix/pool" />
-      <path value="$PROJECT_DIR$/mix/vendor/mix/http-daemon" />
-      <path value="$PROJECT_DIR$/mix/vendor/mix/framework" />
-      <path value="$PROJECT_DIR$/mix/vendor/mix/tcp-session" />
-      <path value="$PROJECT_DIR$/mix/vendor/mix/http-session" />
-    </include_path>
-  </component>
   <component name="PhpProjectSharedConfiguration" php_language_level="7" />
 </project>
