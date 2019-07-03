@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/mix/applications/console/src" isTestSource="false" packagePrefix="Console\" />
+      <sourceFolder url="file://$MODULE_DIR$/mix/applications/http/src" isTestSource="false" packagePrefix="Http\" />
+      <sourceFolder url="file://$MODULE_DIR$/mix/applications/websocket/src" isTestSource="false" packagePrefix="WebSocket\" />
+      <sourceFolder url="file://$MODULE_DIR$/mix/applications/udp/src" isTestSource="false" packagePrefix="Udp\" />
+      <sourceFolder url="file://$MODULE_DIR$/mix/applications/common/src" isTestSource="false" packagePrefix="Common\" />
+      <sourceFolder url="file://$MODULE_DIR$/mix/applications/tcp/src" isTestSource="false" packagePrefix="Tcp\" />
+      <excludeFolder url="file://$MODULE_DIR$/mix/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/mix/vendor/firebase/php-jwt" />
+      <excludeFolder url="file://$MODULE_DIR$/mix/vendor/mix/auth" />
+      <excludeFolder url="file://$MODULE_DIR$/mix/vendor/mix/cache" />
+      <excludeFolder url="file://$MODULE_DIR$/mix/vendor/mix/concurrent" />
+      <excludeFolder url="file://$MODULE_DIR$/mix/vendor/mix/console" />
+      <excludeFolder url="file://$MODULE_DIR$/mix/vendor/mix/database" />
+      <excludeFolder url="file://$MODULE_DIR$/mix/vendor/mix/framework" />
+      <excludeFolder url="file://$MODULE_DIR$/mix/vendor/mix/http" />
+      <excludeFolder url="file://$MODULE_DIR$/mix/vendor/mix/http-daemon" />
+      <excludeFolder url="file://$MODULE_DIR$/mix/vendor/mix/http-message" />
+      <excludeFolder url="file://$MODULE_DIR$/mix/vendor/mix/http-server" />
+      <excludeFolder url="file://$MODULE_DIR$/mix/vendor/mix/http-session" />
+      <excludeFolder url="file://$MODULE_DIR$/mix/vendor/mix/log" />
+      <excludeFolder url="file://$MODULE_DIR$/mix/vendor/mix/pool" />
+      <excludeFolder url="file://$MODULE_DIR$/mix/vendor/mix/redis" />
+      <excludeFolder url="file://$MODULE_DIR$/mix/vendor/mix/server" />
+      <excludeFolder url="file://$MODULE_DIR$/mix/vendor/mix/tcp" />
+      <excludeFolder url="file://$MODULE_DIR$/mix/vendor/mix/tcp-daemon" />
+      <excludeFolder url="file://$MODULE_DIR$/mix/vendor/mix/tcp-server" />
+      <excludeFolder url="file://$MODULE_DIR$/mix/vendor/mix/tcp-session" />
+      <excludeFolder url="file://$MODULE_DIR$/mix/vendor/mix/udp" />
+      <excludeFolder url="file://$MODULE_DIR$/mix/vendor/mix/udp-daemon" />
+      <excludeFolder url="file://$MODULE_DIR$/mix/vendor/mix/udp-server" />
+      <excludeFolder url="file://$MODULE_DIR$/mix/vendor/mix/validate" />
+      <excludeFolder url="file://$MODULE_DIR$/mix/vendor/mix/websocket" />
+      <excludeFolder url="file://$MODULE_DIR$/mix/vendor/mix/websocket-daemon" />
+      <excludeFolder url="file://$MODULE_DIR$/mix/vendor/mix/websocket-server" />
+      <excludeFolder url="file://$MODULE_DIR$/mix/vendor/psr/container" />
+      <excludeFolder url="file://$MODULE_DIR$/mix/vendor/psr/log" />
+      <excludeFolder url="file://$MODULE_DIR$/mix/vendor/psr/simple-cache" />
+      <excludeFolder url="file://$MODULE_DIR$/mix/vendor/swoole/ide-helper" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
